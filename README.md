@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
-</div>
 
 ###
 
@@ -12,7 +9,7 @@
 
 ###
 
-<p align="left">Hi there! 👋<br>I'm Adithya N S, a pre-final year student at Amrita Vishwa Vidyapeetham. My interests include cryptography, web development, and Cyber Security. Always eager to learn, build, and contribute!</p>
+<p align="left">Hi there! 👋<br>I'm Adithya N S, a pre-final year student at Amrita Vishwa Vidyapeetham. Always eager to learn, build, and contribute!</p>
 
 ###
 
@@ -44,27 +41,19 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=adithya-ns&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+<h3 align="left">🌎   Socials:</h3>
 
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/adithya-n-s-6644a8255/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-n-s-6644a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-n-s-6644a8255/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/adithya._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adithya._." height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/u/adithya_n_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adithya_n_s/" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/adithya8lxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adithya8lxx/" height="30" width="40" /></a>
+</p>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=adithya-ns&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=adithya-ns&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
 
-###
