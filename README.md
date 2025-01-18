@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">Hi there! 👋<br>I'm Adithya N S, a pre-final year student at Amrita Vishwa Vidyapeetham. Always eager to learn, build, and contribute!</p>
+<p align="left">I'm Adithya N S, a pre-final year student at Amrita Vishwa Vidyapeetham. Always eager to learn, build, and contribute!</p>
 
 ###
 
@@ -49,9 +49,9 @@
 <div align="left">
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/adithya-n-s-6644a8255/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adithya-n-s-6644a8255/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/adithya._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adithya._." height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adithya_n_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adithya_n_s/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/user/adithya8lxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adithya8lxx/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/Adithya._." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/Adithya._." height="30" width="40" /></a>
+<a href="https://leetcode.com/u/Adithya_n_s/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/Adithya_n_s/" height="30" width="40" /></a>
+<a href="https://www.geeksforgeeks.org/user/adithya8lxx/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/user/adithya8lxx/" height="30" width="40" /></a>
 </p>
 </div>
 
