@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Adithya N S, a pre-final year student at Amrita Vishwa Vidyapeetham. Always eager to learn, build, and contribute!</p>
+<p align="left">I'm Adithya N S, a Final year student at Amrita Vishwa Vidyapeetham. Always eager to learn, build, and contribute!</p>
 
 ###
 
